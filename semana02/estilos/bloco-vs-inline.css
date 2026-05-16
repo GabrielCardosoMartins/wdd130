@@ -8,8 +8,7 @@ body {
     margin: 1rem;
 }
 
-p,
-div {
+p {
     background-color: beige;
     margin: 1rem;
     padding: 1rem;
@@ -18,6 +17,7 @@ div {
 span {
     color: navy;
     background-color: lightblue;
+    padding: 0 5px; 
 }
 
 code {
